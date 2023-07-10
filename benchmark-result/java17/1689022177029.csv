@@ -1,0 +1,4 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit"
+"com.ilkinmehdiyev.java17.BenchmarkTest.testFetchEntitiesBenchmark","avgt",1,2,921.682005,NaN,"ms/op"
+"com.ilkinmehdiyev.java17.BenchmarkTest.testSaveEntitiesBenchmark","avgt",1,2,130.420869,NaN,"ms/op"
+"com.ilkinmehdiyev.java17.BenchmarkTest.testUpdateEntitiesBenchmark","avgt",1,2,109.539994,NaN,"ms/op"
